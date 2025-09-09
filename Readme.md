@@ -26,19 +26,24 @@ Key highlights:
 
 ## 📂 Repository Structure
 
+```bash
+Crypto_trading_Inter-IIT/
 ├── README.md
 ├── .gitignore
-├── data/ # Raw datasets (BTC, ETH CSVs)
-│ ├── BTC_2019_2023_3d.csv
-│ └── ETHUSDT_1d.csv
-├── docs/ # Reports, presentations
-│ └── 84_h2_zelta_midterm.pdf
-├── src/ # Code & notebooks
-│ ├── final_btc_strategy.py
-│ ├── backtesting_pipeline.ipynb
-│ ├── btc_indicator_optimisation.ipynb
-│ └── btc_regime_detection.ipynb
-└── requirements.txt # Dependencies
+├── requirements.txt
+│
+├── data/                  # Raw datasets
+│   ├── BTC_2019_2023_3d.csv
+│   └── ETHUSDT_1d.csv
+│
+├── docs/                  # Reports & presentations
+│   └── 84_h2_zelta_midterm.pdf
+│
+└── src/                   # Core code & notebooks
+    ├── final_btc_strategy.py
+    ├── backtesting_pipeline.ipynb
+    ├── btc_indicator_optimisation.ipynb
+    └── btc_regime_detection.ipynb
 
 
 ---
