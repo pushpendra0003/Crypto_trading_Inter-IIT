@@ -27,6 +27,7 @@ Key highlights:
 ## 📂 Repository Structure
 
 
+```bash
 Crypto_trading_Inter-IIT/
 ├── README.md
 ├── .gitignore
@@ -45,6 +46,7 @@ Crypto_trading_Inter-IIT/
     ├── btc_indicator_optimisation.ipynb
     └── btc_regime_detection.ipynb
 
+```
 
 ## ⚙️ Workflow
 
